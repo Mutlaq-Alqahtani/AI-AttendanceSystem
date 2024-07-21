@@ -1,7 +1,7 @@
 # AI-AttendanceSystem
 Traditional methods of monitoring attendance for employees and students have become increasingly ineffective. The advent of artificial intelligence, particularly facial recognition technology, has revolutionized attendance tracking. Individuals often forget to carry their smart cards, leading to inefficiencies and inaccuracies. Facial recognition addresses this issue by allowing attendance registration with a simple face scan, streamlining the process and enhancing accuracy.
 
-Model Evaluations
+# Model Evaluations
 In this section, I evaluate the performance of various backbone architectures integrated into my Siamese Network facial recognition model. These architectures are crucial for extracting essential features from images and enabling the algorithm to distinguish between different faces.
 
 I am assessing four distinct backbone architectures:
