@@ -1,1 +1,2 @@
 # AI-AttendanceSystem
+Traditional methods of monitoring attendance for employees and students have become increasingly ineffective. The advent of artificial intelligence, particularly facial recognition technology, has revolutionized attendance tracking. Individuals often forget to carry their smart cards, leading to inefficiencies and inaccuracies. Facial recognition addresses this issue by allowing attendance registration with a simple face scan, streamlining the process and enhancing accuracy.
